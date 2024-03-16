@@ -1,5 +1,7 @@
 # Spotify-Clone
 
-Made a spotify clone with the help of basic HTML and CSS.
-Tried to make it responsive as much as possible without using javascript.
-With this project polish my skills of the fundamentals of HTML and CSS.
+1. Made a spotify clone which has the same landing page as that of Spotify.
+
+2. Tried to make it responsive as much as possible without using javascript.
+
+3.Technology used: HTML and CSS. 
