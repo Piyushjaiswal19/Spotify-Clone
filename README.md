@@ -4,4 +4,4 @@
 
 2. Tried to make it responsive as much as possible without using javascript.
 
-3.Technology used: HTML and CSS. 
+3. Technology used: HTML and CSS. 
